@@ -6,7 +6,8 @@ Reading the specific logs from the input file, parse and filter items with the e
 ## Features
 
 - Using regex patterns
-- Ready to read file from database (It should be implemented.)
+- Ready to read file from any source (It should be implemented.)
+- Ready to write to any source (It should be implemented.)
 - Unit-testing ready
 
 
