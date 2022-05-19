@@ -43,3 +43,10 @@ Run the parser
   node .\dist\parser.js --input ./app.log --output ./errors.json  
 ```
 
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
